@@ -1,0 +1,7 @@
+C:\Users\edwin.chale\source\repos\Patrón Bridge\Patrón Bridge\bin\Debug\Patrón Bridge.exe.config
+C:\Users\edwin.chale\source\repos\Patrón Bridge\Patrón Bridge\bin\Debug\Patrón Bridge.exe
+C:\Users\edwin.chale\source\repos\Patrón Bridge\Patrón Bridge\bin\Debug\Patrón Bridge.pdb
+C:\Users\edwin.chale\source\repos\Patrón Bridge\Patrón Bridge\obj\Debug\Patrón Bridge.csprojAssemblyReference.cache
+C:\Users\edwin.chale\source\repos\Patrón Bridge\Patrón Bridge\obj\Debug\Patrón Bridge.csproj.CoreCompileInputs.cache
+C:\Users\edwin.chale\source\repos\Patrón Bridge\Patrón Bridge\obj\Debug\Patrón Bridge.exe
+C:\Users\edwin.chale\source\repos\Patrón Bridge\Patrón Bridge\obj\Debug\Patrón Bridge.pdb
